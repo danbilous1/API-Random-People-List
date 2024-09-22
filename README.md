@@ -1,6 +1,6 @@
 ### Features
-**For** cycle, which filters API.
-Then, for every person is created row in a table with person information(Name, Phone, Adress and etc.)
+1. **For** cycle, which filters API.
+2. Then, for every person is created row in a table with person information(Name, Phone, Adress and etc.)
 
 
 ### Test It Out
